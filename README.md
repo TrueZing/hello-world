@@ -1,3 +1,3 @@
 # hello-world
-My first repos
+My first repo
 Just the testing this revsion
